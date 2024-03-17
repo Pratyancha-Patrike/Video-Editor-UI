@@ -1,3 +1,48 @@
+
+# Video Editor App
+
+Welcome to our video editor app! 🎥✨
+
+## What is it?
+
+Our app helps you create and edit videos easily. You can trim, split, and add effects to your videos with just a few clicks.
+
+## How to Use
+
+Simply visit our app at [https://videoeditorui.netlify.app/](https://videoeditorui.netlify.app/) to get started!
+
+## Features
+
+- Edit videos: Trim, split, and add effects.
+- Easy navigation: Use the sidebar to access different tools.
+- Upload videos and images for editing.
+- User-friendly interface with intuitive icons.
+
+## Project Structure
+
+- `src/components`: Contains different parts of the app.
+- `src/assets`: Holds images and videos used in the app.
+- `src/styles`: Includes CSS files for styling.
+
+## How to Contribute
+
+- Found a bug? Have an idea for improvement? Open an issue or pull request!
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For questions or support, contact [Your Name](mailto:your-email@example.com).
+
+---
+
+This should make it clear that no installation is needed and users can directly access the app using the provided link.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
