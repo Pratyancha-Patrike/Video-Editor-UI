@@ -19,28 +19,28 @@ const AllImages = () => {
       <h1>All Images</h1>
       <div className="images-container">
         <div className="image-box">
-          <img src={image1} alt="Image 1" />
+          <img src={image1} alt="Template 1" />
         </div>
         <div className="image-box">
-          <img src={image2} alt="Image 2" />
+          <img src={image2} alt="Template 2" />
         </div>
         <div className="image-box">
-          <img src={image3} alt="Image 3" />
+          <img src={image3} alt="Template 3" />
         </div>
         <div className="image-box">
-          <img src={image4} alt="Image 4" />
+          <img src={image4} alt="Template 4" />
         </div>
         <div className="image-box">
-          <img src={image5} alt="Image 5" />
+          <img src={image5} alt="Template 5" />
         </div>
         <div className="image-box">
-          <img src={image6} alt="Image 6" />
+          <img src={image6} alt="Template 6" />
         </div>
         <div className="image-box">
-          <img src={image7} alt="Image 7" />
+          <img src={image7} alt="Template 7" />
         </div>
         <div className="image-box">
-          <img src={image8} alt="Image 8" />
+          <img src={image8} alt="Template 8" />
         </div>
       </div>
       <Link to="/" className="back-button">
